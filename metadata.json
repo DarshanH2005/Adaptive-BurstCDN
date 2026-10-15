@@ -1,0 +1,6 @@
+{
+  "name": "Adaptive BurstCDN",
+  "description": "Self-optimizing browser-side peer-assisted delivery layer with per-chunk source scheduling, SHA-256 verification, circuit breakers, and reproducible flash-crowd benchmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
